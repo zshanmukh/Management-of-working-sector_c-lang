@@ -1,1 +1,3 @@
-# Management-of-working-sector_c-lang
+# Management-of-working-sector in C language
+##Login System for Admin and Users 
+
